@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+private/
+output/
+*.plist
+*.log
+*.eml
+*.sqlite3
+.DS_Store

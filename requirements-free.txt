@@ -1,0 +1,2 @@
+-r requirements.txt
+argostranslate>=1.11,<2
